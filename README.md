@@ -10,3 +10,8 @@ Form
 
 ![gambar](img/2.png)
 Tampil Data
+
+Database 
+===
+Untuk database nya seperti ini , nama database **pegawai** , tabel **datapegawai**
+![gambar](img/3.png)
